@@ -1,2 +1,12 @@
-# FCC_SurveyForm
+## FreeCodeCamp "Technical Documentation Page" Project
 This is a project for the Responsive Web Design certification of FreeCodeCamp.
+
+you can check the project in its <a href="https://codepen.io/andresprza/full/mdXeMeK?editors=1100">CodePen</a>.
+
+you can also check my <a href="https://www.freecodecamp.org/certification/andresprza/responsive-web-design">Responsive Web Design certification</a>.
+
+### Project status
+This project is **finished** and i have no plan on updating it at the moment
+
+### Preview
+![image](./SurveyForm_ScreenShot.png)
