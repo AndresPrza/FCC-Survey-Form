@@ -1,4 +1,4 @@
-## FreeCodeCamp "Technical Documentation Page" Project
+## FreeCodeCamp "Survey Form" Project
 This is a project for the Responsive Web Design certification of FreeCodeCamp.
 
 you can check the project in its <a href="https://codepen.io/andresprza/full/mdXeMeK?editors=1100">CodePen</a>.
